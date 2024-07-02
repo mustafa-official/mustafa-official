@@ -1,6 +1,6 @@
 ![MasterHead](https://strapi.dhiwise.com/uploads/Blog_Common_Image_React_Main_Image_ccfc858d5e.webp?w=1920&q=75)
 <h1 align="center">Hi 👋, I'm Golam Mostofa</h1>
-<h3 align="center">A Passionate Front End Developer from Bangladesh</h3>
+<h4 align="left">I'm a junior Front End Developer specializing in building clean, user-friendly interfaces with React.js, HTML, CSS, and JavaScript. Eager to learn and contribute to impactful projects.</h4>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
