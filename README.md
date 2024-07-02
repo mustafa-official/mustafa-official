@@ -1,4 +1,4 @@
-[MasterHead](https://strapi.dhiwise.com/uploads/Blog_Common_Image_React_Main_Image_ccfc858d5e.webp?w=1920&q=75)
+![MasterHead](https://strapi.dhiwise.com/uploads/Blog_Common_Image_React_Main_Image_ccfc858d5e.webp?w=1920&q=75)
 <h1 align="center">Hi 👋, I'm Mostofa</h1>
 <h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
 
