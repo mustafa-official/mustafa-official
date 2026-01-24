@@ -1,12 +1,10 @@
 ![MasterHead](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F88lvz3rpqrqp1714t914.png)
 <h1 align="center">Hi 👋, I'm Golam Mostofa</h1>
-<h4 align="left">I'm a junior Front End Developer specializing in building clean, user-friendly interfaces with React.js, HTML, CSS, and JavaScript. Eager to learn and contribute to impactful projects.</h4>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h4 align="left">I'm a MERN Stack Developer skilled in creating dynamic, complex, and interactive web applications with innovative technologies.</h4>
 
 - 🌱 I’m currently exploring **Next.js**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, MongoDB**
+- 💬 Ask me about MERN Stack (React.js, Node.js, Express.js, MongoDB)
 
 - 📫 How to reach me **mostofaa755@gmail.com**
 
@@ -16,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-official&show_icons=true&locale=en&layout=compact" alt="mustafa-official" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-official&show_icons=true&locale=en" alt="mustafa-official" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-official&" alt="mustafa-official" /></p>
