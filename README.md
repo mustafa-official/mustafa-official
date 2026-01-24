@@ -1,4 +1,4 @@
-![MasterHead](https://strapi.dhiwise.com/uploads/Blog_Common_Image_React_Main_Image_ccfc858d5e.webp?w=1920&q=75)
+![MasterHead](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F88lvz3rpqrqp1714t914.png)
 <h1 align="center">Hi 👋, I'm Golam Mostofa</h1>
 <h4 align="left">I'm a junior Front End Developer specializing in building clean, user-friendly interfaces with React.js, HTML, CSS, and JavaScript. Eager to learn and contribute to impactful projects.</h4>
 
